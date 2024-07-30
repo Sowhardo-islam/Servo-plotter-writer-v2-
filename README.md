@@ -31,7 +31,7 @@ Servo 3 = (D4)///for pen hold
 
 
 
-and now if you dont install thease libary plz install. and open writer_v2.ino and upload it.
+and now if you dont install thease libary >>> plz install. and open writer_v2.ino compile and upload it.
 
 
 
