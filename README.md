@@ -1,5 +1,3 @@
-Asamualucum,
-
 This code is write by,
 
 (Tech innovator)----Sowhardo islam,
